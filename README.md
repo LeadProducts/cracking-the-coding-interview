@@ -1,2 +1,2 @@
-# cracking-the-coding-interview
-ترجمه گروهی کتاب cracking the coding interview
+# cracking the pm interview
+ترجمه گروهی کتاب cracking the pm interview
